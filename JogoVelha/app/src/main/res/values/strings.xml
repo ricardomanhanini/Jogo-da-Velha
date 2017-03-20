@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+
+    <string name="button_reset">Reiniciar</string>
+
+    <string name="rotulo_informacoes">Jogo da Velha 1.1</string>
+</resources>
